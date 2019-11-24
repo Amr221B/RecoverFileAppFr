@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <ListView
+        android:id="@+id/my_listview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:divider="@null"
+        android:dividerHeight="@dimen/_5sdp"
+        android:paddingLeft="5.0dip"
+        android:paddingRight="5.0dip" />
+
+    <TextView
+        android:id="@+id/tv_no_cotnacts"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:singleLine="true"
+        android:text="@string/no_all_contacts"
+        android:textColor="@color/black"
+        android:textSize="@dimen/value_20" />
+</RelativeLayout>

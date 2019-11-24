@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ld_activityScreenTitles">
+
+        <item>app de taux</item>
+        <item>partage app</item>
+        <item>contact</item>
+        <item>politique de confidentialité</item>
+
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+
+        <item>@drawable/rateus</item>
+        <item>@drawable/share</item>
+        <item>@drawable/contactus</item>
+        <item>@drawable/privecy</item>
+
+    </array>
+
+</resources>

@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="app_name">Recuperer Photo et video Supprimée</string>
+
+    <string name="please_wait">S\'il vous plaît, attendez...</string>
+
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+
+    <string name="number_text">Images détectées:</string>
+    <string name="image">image(s)</string>
+    <string name="no_image">Aucune image trouvée!</string>
+
+    <string name="no_video">Aucune vidéo trouvée!</string>
+    <string name="number_video">Vidéos détectées:</string>
+
+    <string name="video">video(s)</string>
+    <string name="back">Back</string>
+
+    <string name="select_all">sélectionner tout</string>
+
+    <string name="deselect_all">tout déselectionner</string>
+
+    <string name="delete_toast">fichier(s) supprimé</string>
+    <string name="restore_toast">Restaurer %1$s le fichier(s) dans %2$s le fichier(s) restants</string>
+
+    <string name="all">Tout</string>
+    <string name="deleted">supprimer</string>
+
+    <string name="no_all_contacts">Contacts non trouvés.</string>
+
+    <string name="contact_not_restore">"Le contact n\\'a pas pu être restauré avec succès"</string>
+    <string name="contact_restore_success">Contact restauré avec succès</string>
+
+    <string name="no_deleted_contacts">contacts supprimés non trouvés.</string>
+
+    <string name="allcontact_restore_success">Tous les contacts ont été restaurés avec succès</string>
+
+    <string name="allcontact_not_restore">"Les contacts n\\'ont pas pu être restaurés avec succès"</string>
+
+</resources>

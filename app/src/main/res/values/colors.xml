@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#002C6B</color>
+    <color name="colorPrimaryDark">#02204D</color>
+    <color name="colorAccent">#002C6B</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="image_color">#333743</color>
+    <color name="contact_color">#E14F38</color>
+    <color name="blue_color">#002C6B</color>
+    <color name="green_color">#01B369</color>
+    <color name="dialog_color">#002C6B</color>
+
+
+
+</resources>
